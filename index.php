@@ -54,9 +54,11 @@ else{
 <!-- magnifique pop up library files-->
 <link rel="stylesheet" href="./vendor/Magnific-Popup/dist/magnific-popup.css">
 <!-- owl carousel library files-->
-<link rel="stylesheet" href="./vendor/owlcarousel/css/owl.carousel.min.css">
-<link rel="stylesheet" href="./vendor/owlcarousel/css/owl.theme.default.min.css">
-    <!-- Custom css files-->
+<!--link rel="stylesheet" href="./vendor/owlcarousel/css/owl.carousel.min.css"-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
+<!--link rel="stylesheet" href="./vendor/owlcarousel/css/owl.theme.default.min.css"-->
+<!-- Custom css files-->
 <link rel="stylesheet" href="./css/style.css">
  <!-- Responsive css files-->
  <link rel="stylesheet" href="./css/responsive.css">
@@ -692,7 +694,8 @@ Votre satisfaction est notre objectif !
     <script src="./vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
 
     <!-- owl carousel library JS files -->
-    <script src="./vendor/owlcarousel/js/owl.carousel.min.js"></script>
+    <!--script src="./vendor/owlcarousel/js/owl.carousel.min.js"></script-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
     <!-- custom JS file -->
     <script src="./js/main.js"></script>
 
