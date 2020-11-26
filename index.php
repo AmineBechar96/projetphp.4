@@ -69,7 +69,7 @@ else{
 <header class="header_area">
 <div class="main-menu">
         <nav class="navbar navbar-expand-lg navbar-light">
-             <a class="navbar-brand" href="#"><img src="./images/logo2.png" alt="logo" style="margin: 0;" height="60"width="105"></a>
+             <a class="navbar-brand" href="#"><img src="./images/innogo.png" alt="logo" style="margin: 0;" height="60"width="131"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -651,7 +651,7 @@ Votre satisfaction est notre objectif !
 <div class="container">
 <div class="justify-content-center">
 <div class="site-logo text-center py-4">
-<a href=""><img src="./images/logo2.png" alt="logo"></a>
+<a href=""><img src="./images/innogo.png" alt="logo" class="img-fluid"></a>
 </div>
 <div class="social text-center">
   <h5 class="text-uppercase" id="fff">
