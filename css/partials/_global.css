@@ -1,0 +1,97 @@
+.title-text{
+    font: normal bold 40px/52px var(--fonth);
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+/* Buttons*/
+.button{
+    padding: .8rem 2.2rem;
+    font:normal 500 16px/20px var(--fonth);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 185px;
+}
+.button.primary-button{
+    background: var(--gradient-color);
+    background-clip: padding-box;
+    color:whitesmoke;
+    transition:background.6s ease;
+    box-shadow: var(--box-shadow);
+}
+.button.primary-button:hover{
+    background:whitesmoke;
+    background-clip: padding-box;
+    color: black; 
+   border-color: black;
+}
+.button.primary-button::after{
+    position:absolute;
+    top:-2px;left:-2px;
+    bottom:-2px;right:-2px;
+    background:var(--gradient-color);
+    content:'';
+    z-index:-1;
+    border-radius:4px;
+}
+.button.secondary-button{
+    background:whitesmoke;
+    background-clip: padding-box;
+    color: black; 
+   border-color: black; 
+}
+.button.secondary-button:hover{
+    background: var(--gradient-color);
+    background-clip: padding-box;
+    color:whitesmoke;
+   border: none;
+    box-shadow: var(--box-shadow);
+}
+p.para{
+    color: var(--text-color);
+    font: normal 500 16px/25px var(--fonth)
+}
+font-h{
+    font-family: var(--fonth);
+}
+button:focus,
+button:active
+button:hover
+.btn:active,
+.btn.active{
+    outline: 0px !important;
+    box-shadow: none !important;
+}
+
+.text-h1{
+    font:normal bold 35px/40px var(--fonth);
+}
+
+/* fixed nab bar*/
+.fixed_Nav{
+    position: fixed;
+    width: 100%;
+    top: -1px;
+    left:0;
+    right: 0;
+    background: white;
+    box-shadow: var(--box-shadow);
+    z-index: 999;
+    transition: background 1s ease;
+}
+
+.language{
+    top: 5px;
+     margin-left: 10px;
+     float: right;
+     cursor: pointer;
+}
+.typing{
+    color: #0deeee;
+}
+
+
+
+
+

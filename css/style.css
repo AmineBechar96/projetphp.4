@@ -1,0 +1,464 @@
+/* import fonts from css files */
+@import url(./fonts.css);
+
+
+/* importing files*/
+@import url(./partials/_variables.css);
+
+/* importing global css files*/
+@import url(./partials/_global.css);
+
+
+.header_area .main-menu .navbar .navbar-brand{
+  padding: 0 2rem 0 2rem;
+}
+
+/* start navbar */
+.header_area .main-menu .navbar{
+    padding: 1rem 7rem ;
+}
+
+.header_area .main-menu .navbar .nav-item .nav-link{
+    font: normal 500 15px/2px var(--fonth); 
+   
+    text-transform: uppercase;
+   
+    padding: 1.7rem;
+    color: var(--title-color);
+}
+.header_area .main-menu .navbar-nav .active a{
+background: var(--gradient-color);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+.header_area .main-menu .navbar-nav a:hover{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    }
+/* end  navbar */
+/* banner begin */
+
+.site-main .site-banner{
+    background: url(../images/bacground2.png) no-repeat 0% 50%;
+
+}
+.site-main .site-banner .site-title {
+    padding-top: 10%;
+
+    font-weight: 500;
+}
+.site-main .site-banner .site-title h3::after{
+content:"";
+height: 2px;
+width: 15vw;
+background: black;
+display: inline-block;
+margin-left: 5%;
+transform: translateY(-7px);
+}
+.site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+.site-main .site-banner .banner-image {
+    padding:2rem 6rem;
+}
+
+/* banner end */
+/* Start about area*/
+.site-main .about-area{
+    padding: 9rem 5rem 4rem 5rem;
+}
+.site-main .about-area .about-title h2 span{
+    display: block;
+    font: normal bold 39px/60px var(--fonth); 
+    letter-spacing: 10px;
+}
+.site-main .about-area .about-title .paragraph{
+    padding: .4rem 0;
+
+}
+
+/* end about area*/
+/* start brand area*/
+.site-main .brand-area{
+    padding: 4rem 0.5rem;
+}
+
+.site-main .brand-area .first-row .col-lg-4{
+    display: flex;
+    justify-content: center;
+}
+.site-main .brand-area .first-row .col-lg-4 .single-brand{
+border: 1px solid var(--border-color);
+text-align: center;
+padding: 3px 2px;
+margin: 2px 1px 2px 0px;
+width:280px;
+height: 130px;
+cursor: pointer;
+transition: transform 4s ease;
+}
+.site-main .brand-area .first-row .col-lg-4 .single-brand img{
+    width: 100%;
+    height: 100%;
+}
+.site-main .brand-area .first-row .col-lg-4 .single-brand img:hover{
+    box-shadow: var(--box-shadow);
+    transform: scale(1.1);
+}
+.site-main .brand-area .degree-area{
+    padding-left: 2rem;
+}
+.site-main .brand-area .degree-area span{
+   display: block;
+}
+.site-main .brand-area .degree-area .deplome-area{
+    padding: 2rem 0;
+position: relative;
+padding-left: 10px;
+}
+.site-main .brand-area .degree-area .bg-panel{
+    position: absolute;
+    left:-190px;top: 0;
+    background: #56a8ad0a;
+    width: 80%;
+    height: 400px;
+    margin-left: 240px;
+    z-index: -1;
+}
+.site-main .brand-area .degree-area .deplome-area .deplome{
+margin-left: 10px;
+margin-right: 20px;
+z-index: 1;
+color: #0f0a31;
+font:normal bold 30px/40px var(--fonth);
+}
+.site-main .brand-area .degree-area .call-area{
+    padding-top: 5rem;
+    padding-left: 8rem;
+}
+/* end brand area*/
+
+/* begin services area*/
+.site-main .services-area{
+    padding: 7rem 5rem;
+}
+.site-main .services-area .services-title{
+padding: 0rem 7rem;
+}
+.site-main .services-area .services-title h1{
+    font-size: 35px;
+}
+.site-main .services{
+    background: #56a8ad0a;
+    padding: 2rem 0;
+    margin: 1rem .5rem;
+    transition: box-shadow.7s ease;
+}
+.site-main .services:hover{
+    box-shadow: var(--box-shadow);
+}
+/* end services area*/
+/*start projects area*/
+.site-main .project-area{
+    padding: 4rem 0;
+}
+.site-main .project-area .button-group button{
+    background: transparent;
+    border: none;
+    font:normal 500 16px/130px var(--fonth);
+    text-transform: uppercase;
+}
+.site-main .project-area .button-group button+button{
+    padding-left: 3rem;
+}
+
+.site-main .project-area .grid .our-project .title-h4{
+    font: normal 700 25px/12px var(--fonth);
+}
+
+.site-main .project-area .grid .our-project a:hover img{
+    filter:brightness(1) drop-shadow(1px 8px 30px #b1afaf);
+}
+
+/*end projects area*/
+/* client area*/
+.site-main .client-area{
+    padding: 5rem 7rem;
+}
+.site-main .client-area .about-title p{
+    padding: 1rem 7rem;
+}
+.site-main .client-area .client{
+    margin: 3rem 1rem;
+    background: #ffffff10;
+    box-shadow: var(--box-shadow);
+}
+.site-main .client-area .client .client-img{
+    padding: 2rem;
+}
+.site-main .client-area .client .about-client{
+    padding-top: 2rem;
+}
+.site-main .client-area .client .about-client h4{
+font: normal 500 21px/20px var(--fonth);
+}
+.site-main .client-area .client .about-client p{
+    font-size: 14px;
+}
+
+.site-main .client-area .owl-carousel .owl-item{
+    display: flex;
+    justify-content: center;
+    padding: 0rem 1.5rem;
+}
+
+.site-main .client-area .owl-carousel .owl-dots .owl-dot.active span{
+    background: var(--primary-color2);
+    width: 12px;
+    height: 12px;
+}
+
+/* end client area*/
+
+/* contact area*/
+/*.contact{
+    background: url(../images/contac.png) no-repeat;
+   padding:8rem 0;
+   margin:3rem auto;
+}
+.contact .contact-title h4{
+    font: normal 700 30px/29px var(--fonth);
+    color: whitesmoke;
+}
+.contact .contact-title p{
+    color: whitesmoke;
+    padding: 0rem 4rem; 
+}
+.contact form .input-textbox input{
+    width:400px;
+    padding: 1.5rem 1rem;
+    border:1px solid whitesmoke;
+    background: transparent;
+    color: whitesmoke;
+    font: normal 500 20px/21px var(--fonth);
+}
+.contact form .input-textbox input::placeholder{
+    color:whitesmoke;
+}
+.contact form .input-textbox textarea{
+    width:400px;
+    padding: 1.5rem 1rem;
+    border:1px solid whitesmoke;
+    background: transparent;
+    color: whitesmoke;
+    font: normal 500 20px/21px var(--fonth);
+}
+.contact form .input-textbox textarea::placeholder{
+    color:whitesmoke;
+}
+.contact form .btn-submit button{
+    background: whitesmoke;
+    padding: .7rem 2rem;
+    margin-right: 170px;
+    color: black;
+    border:1px solid whitesmoke;
+}
+*/
+.contact{
+    position: relative;
+    min-height: 80vh;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(../images/khraa.png);
+    background-size: cover;
+    margin: 30px 0px;
+    box-shadow: var(--box-shadow);
+
+}
+.contact .content{
+    max-width: 800px;
+    text-align: center;
+}
+
+.contact .content h2{
+    font: normal 500 36px/35px var(--fonth);
+    color: whitesmoke;
+}
+.contact .content p{
+    color: whitesmoke;
+}
+.containerr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.containerr .contacterInfo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.containerr .contacterInfo .boxx{
+    position: relative;
+    padding: 20px 0;
+    display: flex;
+}
+.containerr .contacterInfo .boxx .iconn{
+    min-width: 60px;
+    height: 60px;
+    background: whitesmoke;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+}
+.containerr .contacterInfo .boxx .text{
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    font: normal 300 16px/17px var(--fonth);
+    color: whitesmoke;
+}
+.containerr .contacterInfo .boxx .text h3{
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.containerr .contactform{
+    width: 40%;
+    padding: 50px;
+    background: transparent;
+    border:1px solid whitesmoke;
+
+}
+
+.containerr .contactform h2{
+    font:normal 500 25px/24px var(--fonth);
+    color: whitesmoke;
+    text-align: center;
+}
+.containerr .contactform .inputBoxx{
+    width: 100%;
+    margin-top: 10px;
+    position: relative;
+}
+.containerr .contactform .inputBoxx input,
+.containerr .contactform .inputBoxx textarea{
+width: 100%;
+padding: 8px 0;
+border:1px solid whitesmoke;
+ background: transparent;
+color: whitesmoke;
+font: normal 500 16px/17px var(--fonth);
+margin: 10px;
+resize: none;
+padding-left: 8px;
+}
+.containerr .contactform .inputBoxx input::placeholder,
+.containerr .contactform .inputBoxx textarea::placeholder{
+    color:rgb(177, 175, 175);
+    
+}
+.containerr .contactform .inputBoxx button{
+    width:100px;
+    background: white;
+    color: black;
+    border: none;
+    margin-left: 10px;
+}
+@media(max-width:1100px){
+    .containerr .contactform{
+        padding:20px;
+    }
+}
+
+
+
+@media(max-width:991px){
+    .contact{
+        padding: 50px;
+    }
+    .containerr{
+        flex-direction: column;
+    }
+    .containerr .contacterInfo,
+    .containerr .contactform{
+        margin-bottom: 30px;
+        width: 100%;
+    }
+   
+}
+
+
+@media(max-width:555px){
+    .containerr .contactform{
+		padding-left: 0px;
+    }
+    .containerr .contactform h2{
+        font-size: 20px;
+    }
+    .containerr .contactform .inputBoxx input,
+    .containerr .contactform .inputBoxx textarea{
+      font-size: 12px;
+        padding-left: 5px;
+    }
+    .containerr .contactform .inputBoxx input::placeholder,
+.containerr .contactform .inputBoxx textarea::placeholder{
+  font-size: 12px;
+    
+}
+
+}
+
+@media(max-width:325px){
+    .containerr .contactform{
+
+        padding-left: 0;
+      
+    }
+    .containerr .contactform h2{
+        font-size: 20px;
+    }
+    .containerr .contactform .inputBoxx input,
+.containerr .contactform .inputBoxx textarea{
+  font-size: 12px;
+    padding-left: 5px;
+}
+.containerr .contactform .inputBoxx input::placeholder,
+.containerr .contactform .inputBoxx textarea::placeholder{
+  font-size: 12px;
+    
+}
+
+}
+/* end contact area*/
+/* footer area*/
+footer.footer-area{
+    padding: 3rem 0rem;
+}
+
+footer.footer-area .social h5{
+font:normal 500 23px/30px var(--fonth);
+}
+footer.footer-area .social a i{
+    font-size: 25px;
+    padding: 2rem;
+color: var(--text-color);
+}
+footer.footer-area .social a:hover i{
+    color:var(--primary-color);
+}
+
+/* end footer area*/
+.navbar-light .navbar-toggler{
+    border: none !important;
+}
