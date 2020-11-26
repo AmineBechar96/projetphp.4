@@ -41,7 +41,7 @@ else{
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Deboub Halim</title>
+    <title>Innogate</title>
 
 <!-- Bootstrap css files-->
 <link rel="stylesheet" href="./css/bootstrap.min.css">
@@ -120,7 +120,7 @@ else{
     Bienvenue
   </h3>
   <h1 class="title-text text-uppercase" id="name">
-    C'est Deboub halim
+    C'est Innogate
   </h1>
   <h4 class="title-text text-uppercase">
   <span id="prestation">Agence web pour </span> <span class="typing"></span>
@@ -156,15 +156,15 @@ else{
 <h2 class="text-uppercase pt-5" >
   <span id="abb">A</span>
   <span id="abbb">Propos</span>
-  <span id="abbbb">Sur Hdeb</span>
+  <span id="abbbb">Sur Innogate</span>
 </h2>
 <div class="paragraph py-4 w-75">
   <p class="para" id="ab1">
-    Chez Hdeb, nous développons des produits et services innovants et créatifs qui fournissent des solutions globales de communication et d'information. Parmi une pléthore de services, conception et développement web, applications sur mesure, ERP, CRM, solutions e-commerce
+    Chez Innogate, nous développons des produits et services innovants et créatifs qui fournissent des solutions globales de communication et d'information. Parmi une pléthore de services, conception et développement web, applications sur mesure, ERP, CRM, solutions e-commerce
   </p>
 <p class="para" id="ab2">
    
-La philosophie d'entreprise de Hdeb est d'assurer le produit de la plus haute qualité, la satisfaction totale du client, la livraison rapide des solutions et le meilleur rapport qualité / prix de l'industrie.
+La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haute qualité, la satisfaction totale du client, la livraison rapide des solutions et le meilleur rapport qualité / prix de l'industrie.
 </p>
 <button type="button" class="btn button primary-button text-uppercase" onclick="window.location.href='#cont'" id="contacterr">Contacter</button>
 </div>
@@ -327,7 +327,7 @@ La philosophie d'entreprise de Hdeb est d'assurer le produit de la plus haute qu
 <div class="card-body text-center">
   <h5 class="card-title text-uppercase font-h">wp Developper</h5>
   <p class="card-text text-secondary" id="s4">
-  Après l'implantation de vos projets Hdeb vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services
+  Après l'implantation de vos projets Innogate vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services
   </p>
 </div>
 </div>
