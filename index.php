@@ -615,7 +615,7 @@ Votre satisfaction est notre objectif !
             </div>
             <div class="text">
               <h3>Email</h3>
-              <p>Hdeb19@gmail.com</p>
+              <p>innogate.tech@gmail.com</p>
             </div>
           </div>
     </div>
@@ -663,7 +663,7 @@ Votre satisfaction est notre objectif !
   <a href=""><i class="fab fa-twitter"></i></a>
 </div>
 <div class="copyrights text-center">
-  <p class="para">Copyrights &copy; 2020 All rights reserved |  This template is made by Hdeb</p>
+  <p class="para">Copyrights &copy; 2020 All rights reserved |  This template is made by Innogate</p>
 </div>
 </div>
 
