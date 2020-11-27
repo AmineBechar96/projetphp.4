@@ -42,7 +42,7 @@ else{
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Innogate</title>
-
+<link rel="icon" type="image/png" href="./images/icon.png"/>
 <!-- Bootstrap css files-->
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 <!-- Bootstoast css files-->
