@@ -1,3 +1,49 @@
+@media only screen and (max-width:362px){
+    .header_area .main-menu .navbar,
+    .header_area .main-menu .navbar .navbar-brand,
+    .header_area .services-area,
+    {
+        padding: 2%;
+        margin: 0px;
+    }
+    .site-main .site-banner .site-title h1{
+        font-size: 31px;
+    }
+    .site-main .site-banner .site-title h3{
+        font-size: 27px;
+    }
+    .site-main .site-banner .site-title h4{
+        font-size: 12px;
+    }
+    .site-main .services-area .services{
+    width:13rem;
+    margin-left:-50px;
+    }
+    .site-main .client-area .about-title{
+        margin-left: 30px;
+        width: 15%;
+     }
+    .site-main .client-area .about-title h1{
+       font-size: 25px;
+       width: 200px;
+
+    }
+    .site-main .client-area .about-title p{
+        width: 200px;
+    padding: 0; 
+     }
+    
+     .site-main .client-area {
+         padding: 1%;
+         margin: 0;
+
+     
+     }
+     .site-main .brand-area .degree-area .deplome-area .deplome h3{
+         font-size: 22px;
+     }
+}
+
 @media only screen and (max-width:340px){
     .header_area .main-menu .navbar,
     .header_area .main-menu .navbar .navbar-brand,
