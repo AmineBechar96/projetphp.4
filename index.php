@@ -1,7 +1,7 @@
 <?php
 session_start();
 include'connect.php';
-if (isset ($_POST['contact1'])) {
+if (isset ($_POST['contact'])) {
 $name=$_POST['name'];
 $mail=$_POST['email'];
 $message=$_POST['message'];
@@ -241,7 +241,7 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
 <div class="d-flex flex-row deplome-area">
   <h4 class="py-3 deplome" id="master" >
     Master Acadimique
-   Engenierié
+   Ingenierié
    Des systèmes d'informations et des logiciels
   </h4>
 </div>
@@ -250,6 +250,7 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
 <div class="call-now">
   <a href="#" class="text-uppercase h4 font-h" id="call">Appeler</a>
   <span class="font-h py-2">(+213) 558 47 25 51</span>
+  <span class="font-h py-2">(+213) 797 62 80 14</span>
 </div>
 </div>
 
@@ -281,9 +282,9 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
     <span><i class="fas fa-hands-helping fa-3x"></i></span>
 </div>
 <div class="card-body text-center">
-  <h5 class="card-title text-uppercase font-h">wp Developper</h5>
+  <h5 class="card-title text-uppercase font-h">Etude de faisabilité</h5>
   <p class="card-text text-secondary" id="s1">
-    si vous n'avez pas une idée claire sur un domaine nous vous aidons à exprimer vos besoins nous vous aidons à etudier la faisubalité de votre projets
+    Si vous n'avez pas une idée claire sur un domaine ,nous vous aiderons à exprimer vos besoins nous vous aidons à étudier la faisabilité de votre projets
 </div>
 </div>
 
@@ -296,7 +297,7 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
     <span><i class="fas fa-laptop-code fa-3x"></i></span>
 </div>
 <div class="card-body text-center">
-  <h5 class="card-title text-uppercase font-h">wp Developper</h5>
+  <h5 class="card-title text-uppercase font-h">Implémentation et développement</h5>
   <p class="card-text text-secondary" id="s2">
     Nous fournissons une implémentation de solution complète en respectant toutes les phases de votre cahier de charge dans les délais prévus
   </p>
@@ -310,7 +311,7 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
     <span><i class="fas fa-ad fa-3x"></i></span>
 </div>
 <div class="card-body text-center">
-  <h5 class="card-title text-uppercase font-h">wp Developper</h5>
+  <h5 class="card-title text-uppercase font-h">Stratégie Marketing</h5>
   <p class="card-text text-secondary" id="s3">
    Nous pouvons également vous aider à promouvoir votre entreprise en vous suggérant une stratégie de marketing qui vous aide à améliorer votre SEO
   </p>
@@ -325,9 +326,9 @@ La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haut
     <span><i class="fas fa-tools fa-3x"></i></span>
 </div>
 <div class="card-body text-center">
-  <h5 class="card-title text-uppercase font-h">wp Developper</h5>
+  <h5 class="card-title text-uppercase font-h">Maintenance et Formation</h5>
   <p class="card-text text-secondary" id="s4">
-  Après l'implantation de vos projets Innogate vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services
+  Après l'implantation de vos projets ,Innogate vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services
   </p>
 </div>
 </div>
@@ -356,7 +357,7 @@ Derniers Projets
   <button type="button" class="active" id="btn1">Tous</button>
   <button type="button" id="best">Meuilleurs</button>
   <button type="button" data-filter=".web" id="ws">Site Web</button>
-  <button type="button" data-filter=".desktop" id="des">Desktop</button>
+  <button type="button" data-filter=".desktop" id="des">Application Desktop</button>
   <button type="button" data-filter=".mobile" id="and">Application Mobile</button>
 </div>
 <div class="row grid">
@@ -495,8 +496,8 @@ Votre satisfaction est notre objectif !
           <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
-            <h4 class="text-uppercase">Jhon Do</h4>
-            <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
+            <h4 class="text-uppercase">Sonelgaz</h4>
+           
           </div>
         </div>
         <div class="client row">
@@ -504,8 +505,8 @@ Votre satisfaction est notre objectif !
             <img src="./images/client2.jpg" alt="client-2" class="img-fluid">
             </div>
             <div class="col-lg-8 col-md-12 about-client">
-              <h4 class="text-uppercase">Bechar Amin</h4>
-              <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
+              <h4 class="text-uppercase">Général Emballage</h4>
+              
             </div>
           </div>
           <div class="client row">
