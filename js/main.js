@@ -104,7 +104,7 @@ wel.innerHTML="Bienvenue";
 home.innerHTML="Accueil";
 about.innerHTML="A PROPOS";
 projects.innerHTML="Projets";
-name.innerHTML="c'est deboub halim";
+name.innerHTML="Chez Innogate;
 prestation.innerHTML="Agence web pour";
 contacter.innerHTML="Contacter";
 contacterr.innerHTML="Contacter";
@@ -112,17 +112,17 @@ contacterrr.innerHTML="Contacter";
 cv.innerHTML="Obtenir le CV";
 abb.innerHTML="A";
 abbb.innerHTML="Propos";
-abbbb.innerHTML="sur Hdeb";
-ab1.innerHTML="Chez Hdeb, nous développons des produits et services innovants et créatifs qui fournissent des solutions globales de communication et d'information. Parmi une pléthore de services, conception et développement web, applications sur mesure, ERP, CRM, solutions e-commerce.";
+abbbb.innerHTML="sur Innogate";
+ab1.innerHTML="Chez Innogate, nous développons des produits et des services innovants et créatifs qui fournissent des solutions globales de communication et d'information. Parmi une pléthore de services, conception et développement web, applications sur mesure, ERP, CRM, solutions e-commerce.";
 ab2.innerHTML="La philosophie d'entreprise de Hdeb est d'assurer le produit de la plus haute qualité, la satisfaction totale du client, la livraison rapide des solutions et le meilleur rapport qualité / prix de l'industrie.";
 master.innerHTML="Master Acadimique Engenierié Des systèmes d'informations et des logiciels";
 call.innerHTML="Appeler";
 ours.innerHTML="NOS SERVICES";
-oursi.innerHTML="Vous voulez lancer un projet ? Vous savez pas par où commencer ? Hdeb vous apporte la solution ! Nous vous accompagnons dans toutes les étapes de mise en place de votre projet de A-Z.";
-s1.innerHTML="si vous n'avez pas une idée claire sur un sujet nous vous aidons à exprimer les spécifications de vos besoins, nous vous aidons à etudier la faisubalité de votre projets";
+oursi.innerHTML="Vous voulez lancer un projet ? Vous savez pas par où commencer ? Innogate vous apporte la solution ! Nous vous accompagnons dans toutes les étapes de mise en place de votre projets de A-Z.";
+s1.innerHTML="si vous n'avez pas une idée claire sur un sujet nous vous aidons à exprimer les spécifications de vos besoins, nous vous aidons à etudier la faisubalité de vos projets";
 s2.innerHTML="Nous fournissons une implémentation de solution complète en respectant toutes les phases de votre cahier de charge dans les délais prévus";
 s3.innerHTML="Nous pouvons également vous aider à promouvoir votre entreprise en vous suggérant une stratégie de marketing qui vous aide à améliorer votre SEO";
-s4.innerHTML="Après l'implantation de vos projets Hdeb vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services";
+s4.innerHTML="Après l'implantation de vos projets Innogate vous accompagne lors de la formation et le transfert des connaissances, la maintenance et la mise à niveau de vos services";
 lp.innerHTML="DERNIERS PROJETS";
 cs.innerHTML="CLIENTS DISENT DE NOUS";
 cs1.innerHTML="Voici quelques clients qui nous ont fait confiance, comme vous pouvez le constater les réponses ont été très positives. Votre satisfaction est notre objectif !";
@@ -138,12 +138,6 @@ ws.innerHTML="SITE WEB";
 des.innerHTML="DESKTOP";
 and.innerHTML="APPLICATION MOBILE";
 best.innerHTML="MEILLEURES";
-var typed= new Typed(".typing",{
-    strings:["DEVELOPPEMENT WEB","E-MARKETING","APPLICATION MOBILE","CONCEPTION GRAPHIC","AUDIT DES SI","DATA ANALYTIC"],
-    typeSpeed:100,
-    backSpeed:60,
-    loop:true
-});
 }
 else if(language === "english"){
     wel.innerHTML="Welcome";
@@ -159,7 +153,7 @@ else if(language === "english"){
     abb.innerHTML="About Hdeb";
     abbb.innerHTML="";
     abbbb.innerHTML="";
-    ab1.innerHTML="At Hdeb, we develop innovative and creative products and services that provide total communication and information solutions. Among a plethora of services, web design and development, tailor made applications, ERPs, CRMs, e-commerce solutions";
+    ab1.innerHTML="At Innogate, we develop innovative and creative products and services that provide total communication and information solutions. Among a plethora of services, web design and development, tailor made applications, ERPs, CRMs, e-commerce solutions";
     ab2.innerHTML="Hdeb's business philosophy is to assure the highest quality product, total client satisfaction, timely delivery of solutions and the best quality/price ratio found in the industry";
     master.innerHTML="Academic Master in Information Systems and Software Engineering";
     call.innerHTML="Call";
@@ -167,8 +161,8 @@ else if(language === "english"){
     oursi.innerHTML="Do you want to start a project? Don't know where to start? Hdeb brings you the solution! We support you in all stages of setting up your project from A-Z";
     s1.innerHTML="if you do not have a clear idea on a subject we help you to express the specifications of your needs and we help you to study the feasibility of your projects in the marquet";
     s2.innerHTML="We provide the complete website/software solution implementation of your systems respecting all the phases of your specifications in short time                                                     ";
-    s3.innerHTML="Hdeb also help you promote your business by suggesting a complete marketing strategy that helps you improve your SEO to get in touch with bigger audience";
-    s4.innerHTML="After the implementation of your projects Hdeb supports you during the training and the transfer of knowledge, the maintenance and the upgrade of your services";
+    s3.innerHTML="Innogate also help you promote your business by suggesting a complete marketing strategy that helps you improve your SEO to get in touch with bigger audience";
+    s4.innerHTML="After the implementation of your projects Innogate supports you during the training and the transfer of knowledge, the maintenance and the upgrade of your services";
     lp.innerHTML="LATEST PROJECTS";
     cs.innerHTML="CUSTOMERS SAY ABOUT US";
     cs1.innerHTML="Here are some customers who have trusted us, as you can see the responses have been very positive. Your satisfaction is our goal !";
@@ -181,14 +175,15 @@ else if(language === "english"){
     des.innerHTML="DESKTOP";
     and.innerHTML="MOBILE APPLICATION";
     best.innerHTML="BEST";
+
+}
+	// js typing
 	var typedd= new Typed(".typing",{
     strings:["WEB DEVELOPPEMENT ","E-MARKETING","MOBILE APPLICATION "," GRAPHIC CONCEPTION","SI AUDIT","DATA ANALYTICS"],
     typeSpeed:100,
     backSpeed:60,
     loop:true
 });
-}
-
 }
 // hidding alert
 $("#success-alert").fadeTo(3000, 500).slideUp(500, function() {
