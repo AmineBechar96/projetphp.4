@@ -144,7 +144,7 @@ else if(language === "english"){
     home.innerHTML="Home";
     about.innerHTML="About Us";
     projects.innerHTML="Projects";
-    name.innerHTML="it's deboub halim";
+    name.innerHTML="it's Innogate";
     prestation.innerHTML="WEB AGENCY FOR";
     contacter.innerHTML="Contact";
     contacterr.innerHTML="Contact";
