@@ -500,51 +500,60 @@ Votre satisfaction est notre objectif !
            
           </div>
         </div>
-        <div class="client row">
-            <div class="col-lg-4 col-md-12 client-img">
-            <img src="./images/client2.jpg" alt="client-2" class="img-fluid">
-            </div>
-            <div class="col-lg-8 col-md-12 about-client">
-              <h4 class="text-uppercase">Général Emballage</h4>
-              
-            </div>
+         <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
           </div>
-          <div class="client row">
-              <div class="col-lg-4 col-md-12 client-img">
-              <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
-              </div>
-              <div class="col-lg-8 col-md-12 about-client">
-                <h4 class="text-uppercase">Jhon Dostov</h4>
-                <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
-              </div>
-            </div>
-            <div class="client row">
-                <div class="col-lg-4 col-md-12 client-img">
-                <img src="./images/client2.jpg" alt="client-2" class="img-fluid">
-                </div>
-                <div class="col-lg-8 col-md-12 about-client">
-                  <h4 class="text-uppercase">Bechar Amin</h4>
-                  <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
-                </div>
-              </div>
-              <div class="client row">
-                  <div class="col-lg-4 col-md-12 client-img">
-                  <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
-                  </div>
-                  <div class="col-lg-8 col-md-12 about-client">
-                    <h4 class="text-uppercase">Jhon Do</h4>
-                    <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
-                  </div>
-                </div>
-                <div class="client row">
-                    <div class="col-lg-4 col-md-12 client-img">
-                    <img src="./images/client2.jpg" alt="client-2" class="img-fluid">
-                    </div>
-                    <div class="col-lg-8 col-md-12 about-client">
-                      <h4 class="text-uppercase">Bechar Amin</h4>
-                      <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque? Fuga tempore at quod minima.</p>
-                    </div>
-                  </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Général Emballage</h4>
+           
+          </div>
+        </div>
+	       <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Sonelgaz</h4>
+           
+          </div>
+        </div>
+	       <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Général Emballage</h4>
+           
+          </div>
+        </div>
+	       <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Sonelgaz</h4>
+           
+          </div>
+        </div>
+	       <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Général Emballage</h4>
+           
+          </div>
+        </div>
+	       <div class="client row">
+          <div class="col-lg-4 col-md-12 col-sm-12 client-img">
+          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 about-client">
+            <h4 class="text-uppercase">Sonelgaz</h4>
+           
+          </div>
+        </div>
         </div>
   </div>
 </section>
@@ -608,6 +617,7 @@ Votre satisfaction est notre objectif !
           <div class="text">
             <h3>Téléphone</h3>
             <p>(+213) 558 47 25 51</p>
+	    <p>(+213) 797 62 80 14</p>
           </div>
         </div>
         <div class="boxx">
@@ -658,7 +668,7 @@ Votre satisfaction est notre objectif !
   <h5 class="text-uppercase" id="fff">
     Suivez nous sur
   </h5>
-  <a href=""><i class="fab fa-facebook"></i></a>
+  <a href="https://www.facebook.com/InnogateAlgerie/"><i class="fab fa-facebook"></i></a>
   <a href=""><i class="fab fa-instagram"></i></a>
   <a href=""><i class="fab fa-youtube"></i></a>
   <a href=""><i class="fab fa-twitter"></i></a>
