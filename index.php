@@ -1,7 +1,7 @@
 <?php
 session_start();
 include'connect.php';
-if (isset ($_POST['contact'])) {
+if (isset ($_POST['contact1'])) {
 $name=$_POST['name'];
 $mail=$_POST['email'];
 $message=$_POST['message'];
