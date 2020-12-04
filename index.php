@@ -413,6 +413,19 @@ Derniers Projets
         </div>
       </div>
     </div>
+	
+	 <div class="our-project">
+        <div class="img">
+            <a class="test-popup-link" href="./images/client4.jpg">
+          <img src="./images/sonalg.png" alt="projet-4" width="300"height="180">
+        </a>
+        </div>
+        <div class="title py-4">
+          <h4 class="text-uppercase">Systéme d'actualité</h4>
+          <span class="text-secondary">Projet terminé</span>
+        </div>
+      </div>
+    </div>
     <div class="col-lg-4 col-md-6 col-sm-12 element-item web">
       <div class="our-project">
          
@@ -493,7 +506,7 @@ Votre satisfaction est notre objectif !
       <div class="owl-carousel owl-theme">
         <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/telechargement.JPG" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
@@ -502,7 +515,7 @@ Votre satisfaction est notre objectif !
         </div>
          <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/client3.jpg" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Général Emballage</h4>
@@ -511,7 +524,7 @@ Votre satisfaction est notre objectif !
         </div>
 	       <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/telechargement.JPG" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
@@ -520,7 +533,7 @@ Votre satisfaction est notre objectif !
         </div>
 	       <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/client3.jpg" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Général Emballage</h4>
@@ -529,7 +542,7 @@ Votre satisfaction est notre objectif !
         </div>
 	       <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/telechargement.JPG" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
@@ -538,7 +551,7 @@ Votre satisfaction est notre objectif !
         </div>
 	       <div class="client row">
           <div class="col-lg-4 col-md-12 col-sm-12 client-img">
-          <img src="./images/client1.jpg" alt="client-1" class="img-fluid">
+          <img src="./images/client3.jpg" alt="client-1" class="img-fluid">
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Général Emballage</h4>
