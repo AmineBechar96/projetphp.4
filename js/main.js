@@ -115,7 +115,7 @@ abbb.innerHTML="Propos";
 abbbb.innerHTML="sur Innogate";
 ab1.innerHTML="Chez Innogate, nous développons des produits et des services innovants et créatifs qui fournissent des solutions globales de communication et d'information. Parmi une pléthore de services, conception et développement web, applications sur mesure, ERP, CRM, solutions e-commerce.";
 ab2.innerHTML="La philosophie d'entreprise de Innogate est d'assurer le produit de la plus haute qualité, la satisfaction totale du client, la livraison rapide des solutions et le meilleur rapport qualité / prix de l'industrie.";
-master.innerHTML="Master Acadimique Engenierié Des systèmes d'informations et des logiciels";
+master.innerHTML="Master Acadimique Ingenierie Des systèmes d'informations et des logiciels";
 call.innerHTML="Appeler";
 ours.innerHTML="NOS SERVICES";
 oursi.innerHTML="Vous voulez lancer un projet ? Vous savez pas par où commencer ? Innogate vous apporte la solution ! Nous vous accompagnons dans toutes les étapes de mise en place de votre projets de A-Z.";
@@ -158,11 +158,11 @@ else if(language === "english"){
     master.innerHTML="Academic Master in Information Systems and Software Engineering";
     call.innerHTML="Call";
     ours.innerHTML="our services";
-    oursi.innerHTML="Do you want to start a project? Don't know where to start? Hdeb brings you the solution! We support you in all stages of setting up your project from A-Z";
-    s1.innerHTML="if you do not have a clear idea on a subject we help you to express the specifications of your needs and we help you to study the feasibility of your projects in the marquet";
+    oursi.innerHTML="Do you want to start a project? Don't know where to start? Innogate brings you the solution! We support you in all stages of setting up your project from A-Z";
+    s1.innerHTML="If you do not have a clear idea on a subject, we help you to express the specifications of your needs and we help you to study the feasibility of your projects in the marquet";
     s2.innerHTML="We provide the complete website/software solution implementation of your systems respecting all the phases of your specifications in short time                                                     ";
     s3.innerHTML="Innogate also help you promote your business by suggesting a complete marketing strategy that helps you improve your SEO to get in touch with bigger audience";
-    s4.innerHTML="After the implementation of your projects Innogate supports you during the training and the transfer of knowledge, the maintenance and the upgrade of your services";
+    s4.innerHTML="After the implementation of your projects, Innogate supports you during the training and the transfer of knowledge, the maintenance and the upgrade of your services";
     lp.innerHTML="LATEST PROJECTS";
     cs.innerHTML="CUSTOMERS SAY ABOUT US";
     cs1.innerHTML="Here are some customers who have trusted us, as you can see the responses have been very positive. Your satisfaction is our goal !";
@@ -172,7 +172,7 @@ else if(language === "english"){
     fff.innerHTML="FOLLOW US ON";
     alll.innerHTML="ALL";
     ws.innerHTML="WEBSITE";
-    des.innerHTML="DESKTOP";
+    des.innerHTML="DESKTOP APPLICATION";
     and.innerHTML="MOBILE APPLICATION";
     best.innerHTML="BEST";
 
