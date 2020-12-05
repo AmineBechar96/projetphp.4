@@ -177,14 +177,15 @@ else if(language === "english"){
     best.innerHTML="BEST";
 
 }
-	// js typing
-	var typedd= new Typed(".typing",{
-    strings:["WEB DEVELOPPEMENT ","E-MARKETING","MOBILE APPLICATION "," GRAPHIC CONCEPTION","SI AUDIT","DATA ANALYTICS"],
-    typeSpeed:100,
-    backSpeed:60,
-    loop:true
-});
+	
 }
+// js typing
+var typedd= new Typed(".typing",{
+strings:["WEB DEVELOPPEMENT ","E-MARKETING","MOBILE APPLICATION "," GRAPHIC CONCEPTION","SI AUDIT","DATA ANALYTICS"],
+typeSpeed:100,
+backSpeed:60,
+loop:true
+});
 // hidding alert
 $("#success-alert").fadeTo(3000, 500).slideUp(500, function() {
 $("#success-alert").slideUp(500);
