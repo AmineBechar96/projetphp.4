@@ -517,7 +517,7 @@ Votre satisfaction est notre objectif !
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
-           
+           <p> Sonelgaz est une grande société algérienne, nous avons aidé cette société à réaliser une application web pour la gestion de la clientèle</p>
           </div>
         </div>
          <div class="client row">
@@ -535,7 +535,7 @@ Votre satisfaction est notre objectif !
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
-           
+           <p> Sonelgaz est une grande société algérienne, nous avons aidé cette société à réaliser une application web pour la gestion de la clientèle</p>
           </div>
         </div>
 	       <div class="client row">
@@ -553,7 +553,7 @@ Votre satisfaction est notre objectif !
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Sonelgaz</h4>
-           
+           <p> Sonelgaz est une grande société algérienne, nous avons aidé cette société à réaliser une application web pour la gestion de la clientèle</p>
           </div>
         </div>
 	       <div class="client row">
@@ -562,7 +562,7 @@ Votre satisfaction est notre objectif !
           </div>
           <div class="col-lg-8 col-md-12 col-sm-12 about-client">
             <h4 class="text-uppercase">Général Emballage</h4>
-           
+	    <p>Général emballage est une grande société algérienne, nous avons accompagné cette société à réaliser leurs sites web vitrine ecommerce en faisant l'étude de faisabilité et réaliser les testes nécessaire pour assurer le fonctionnement de leur produit</p>
           </div>
         </div>
 	
