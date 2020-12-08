@@ -62,6 +62,17 @@ else{
 <link rel="stylesheet" href="./css/style.css">
  <!-- Responsive css files-->
  <link rel="stylesheet" href="./css/responsive.css">
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J0B58GXX1S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J0B58GXX1S');
+</script>
+	
 </head>
 <script></script>
 <body>
